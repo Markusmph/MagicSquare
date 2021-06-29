@@ -1,0 +1,37 @@
+.root{
+    -fx-font-size: 14px;
+    -fx-background-color: #161B21;
+    -fx-background-size: auto 100%;
+}
+
+.button{
+    -fx-background-color: #f4a950;
+    -fx-text-fill: #161B21;
+    -fx-font-size: 15px;
+}
+
+.text-field{
+    -fx-text-align: center;
+    -fx-focus-color: transparent;
+    -fx-text-box-border: transparent;
+    -fx-background-color: #161B21;
+    -fx-alignment: center;
+    -fx-font-size: 30px;
+    -fx-border-width: 5px;
+    -fx-border-color: #f4a950;
+    -fx-border-radius: 10px; 
+    -fx-border-radius: 10px;
+    -fx-max-width: 70px;
+    -fx-min-width: 50px;
+    -fx-max-height: 70px;
+    -fx-min-height: 50px;
+}
+
+.text-input{
+    -fx-text-fill: #f4a950;
+}
+
+.sum{
+    -fx-text-fill: #f4a950;
+    -fx-font-size: 16px;
+}
